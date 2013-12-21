@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.9\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-11-26 15:19:04+00:00\n"
-"PO-Revision-Date: 2013-12-21 21:26+0100\n"
+"PO-Revision-Date: 2013-12-21 21:41+0100\n"
 "Last-Translator: Thach Pham <ezit92@gmail.com>\n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -37,7 +37,7 @@ msgstr "Sản phẩm bởi SKU/"
 
 #: assets/js/admin/editor_plugin_lang.php:8
 msgid "Products by SKU/ID"
-msgstr ""
+msgstr "Sản phẩm bởi mã SKU/ID"
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:9
@@ -65,7 +65,7 @@ msgstr "Sản phẩm liên quan"
 
 #: assets/js/admin/editor_plugin_lang.php:13
 msgid "Shop Messages"
-msgstr ""
+msgstr "Lời nhắn của gian hàng"
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:14
@@ -78,7 +78,7 @@ msgstr "Thông tin đơn hàng"
 #: includes/shortcodes/class-wc-shortcode-view-order.php:49
 #: templates/checkout/thankyou.php:30
 msgid "My Account"
-msgstr ""
+msgstr "Tài khoản của tôi"
 
 #: i18n/states/AU.php:13
 msgid "Australian Capital Territory"
@@ -4252,9 +4252,8 @@ msgstr "Họ"
 
 # @ woocommerce
 #: includes/class-wc-countries.php:735
-#, fuzzy
 msgid "Company Name"
-msgstr "Hoàn tất đơn hàng"
+msgstr "Tên công "
 
 # @ woocommerce
 #: includes/class-wc-countries.php:739
@@ -4327,15 +4326,13 @@ msgstr "Tiểu bang"
 
 # @ woocommerce
 #: includes/class-wc-countries.php:1033
-#, fuzzy
 msgid "Postcode"
-msgstr "Chèn shortcode"
+msgstr "Mã bưu chính"
 
 # @ woocommerce
 #: includes/class-wc-countries.php:1141
-#, fuzzy
 msgid "Email Address"
-msgstr "Địa chỉ"
+msgstr "Địa chỉ email"
 
 #: includes/class-wc-countries.php:1147
 msgid "Phone"
@@ -4349,9 +4346,8 @@ msgstr "Mã giảm giá đã nhập thành công."
 
 # @ woocommerce
 #: includes/class-wc-coupon.php:571
-#, fuzzy
 msgid "Coupon code removed successfully."
-msgstr "Mã giảm giá đã nhập thành công."
+msgstr "Mã giảm giá đã xoá thành công."
 
 # @ woocommerce
 #: includes/class-wc-coupon.php:592
@@ -4409,9 +4405,8 @@ msgstr "Xin lỗi, mã giảm giá không thể áp dụng cho sản phẩm này
 
 # @ woocommerce
 #: includes/class-wc-coupon.php:648
-#, fuzzy
 msgid "Please enter a coupon code."
-msgstr "Hãy nhập tài khoản đăng nhập của bạn."
+msgstr "Hãy nhập mã giảm giá."
 
 #: includes/class-wc-customer.php:626 includes/class-wc-customer.php:638
 msgid "File %d"
@@ -4419,9 +4414,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-download-handler.php:37
-#, fuzzy
 msgid "Invalid email address."
-msgstr "là địa chỉ email không hợp lệ."
+msgstr "Đa chỉ email không hợp lệ."
 
 #: includes/class-wc-download-handler.php:37
 #: includes/class-wc-download-handler.php:61
@@ -4440,15 +4434,13 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-download-handler.php:73
-#, fuzzy
 msgid "You must be logged in to download files."
-msgstr "Không thể ghi vào template."
+msgstr "Bạn phải đăng nhập để tải tập tin."
 
 # @ woocommerce
 #: includes/class-wc-download-handler.php:73
-#, fuzzy
 msgid "Login &rarr;"
-msgstr "Thanh toán &rarr;"
+msgstr "Đăng nhập &rarr;"
 
 #: includes/class-wc-download-handler.php:73
 msgid "Log in to Download Files"
@@ -4460,9 +4452,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-download-handler.php:81
-#, fuzzy
 msgid "Product no longer exists."
-msgstr "Danh mục sản phẩm"
+msgstr "Sản phẩm không tồn tại."
 
 # @ woocommerce
 #: includes/class-wc-download-handler.php:87
@@ -4471,9 +4462,8 @@ msgstr "Danh mục sản phẩm"
 #: includes/shortcodes/class-wc-shortcode-checkout.php:167
 #: includes/shortcodes/class-wc-shortcode-my-account.php:106
 #: includes/shortcodes/class-wc-shortcode-view-order.php:49
-#, fuzzy
 msgid "Invalid order."
-msgstr "Phương thức thanh toán không hợp lệ."
+msgstr "Đơn hàng không hợp lệ."
 
 #: includes/class-wc-download-handler.php:91
 msgid "Sorry, you have reached your download limit for this file"
@@ -4510,9 +4500,8 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-emails.php:332 includes/class-wc-emails.php:364
 #: includes/class-wc-emails.php:408
-#, fuzzy
 msgid "Product #%s - %s"
-msgstr "Danh mục sản phẩm"
+msgstr "Sản phẩm #%s - %s"
 
 #: includes/class-wc-emails.php:334
 msgid "is low in stock."
@@ -4520,9 +4509,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-emails.php:357
-#, fuzzy
 msgid "Product out of stock"
-msgstr "Sản phẩm"
+msgstr "Sản phẩm hết hàng"
 
 #: includes/class-wc-emails.php:366
 msgid "is out of stock."
@@ -4530,9 +4518,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-emails.php:401
-#, fuzzy
 msgid "Product Backorder"
-msgstr "Sản phẩm"
+msgstr "Sản phẩm "
 
 #: includes/class-wc-emails.php:411
 msgid "%s units of %s have been backordered in order %s."
@@ -4540,9 +4527,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:119
-#, fuzzy
 msgid "Address changed successfully."
-msgstr "Mã giảm giá đã nhập thành công."
+msgstr "Sửa địa chỉ thành công."
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:166
@@ -4553,9 +4539,8 @@ msgstr "Hãy nhập tài khoản đăng nhập của bạn."
 # @ woocommerce
 #: includes/class-wc-form-handler.php:169
 #: includes/wc-customer-functions.php:46
-#, fuzzy
 msgid "Please provide a valid email address."
-msgstr "là địa chỉ email không hợp lệ."
+msgstr "Địa chỉ email không hợp lệ."
 
 #: includes/class-wc-form-handler.php:172
 msgid "This email address is already registered."
@@ -4563,9 +4548,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:175
-#, fuzzy
 msgid "Please re-enter your password."
-msgstr "Hãy nhập mã giảm giá."
+msgstr "Hãy nhập lại mật khẩu của bạn."
 
 #: includes/class-wc-form-handler.php:178
 #: includes/class-wc-form-handler.php:754
@@ -4646,9 +4630,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:749
-#, fuzzy
 msgid "Please enter your password."
-msgstr "Hãy nhập mã giảm giá."
+msgstr "Hãy nhập mật "
 
 #: includes/class-wc-form-handler.php:770
 msgid "Your password has been reset."
@@ -4692,9 +4675,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-frontend-scripts.php:152
-#, fuzzy
 msgid "Select an option&hellip;"
-msgstr "không chính xác. Hãy nhập đủ một trong các yêu cầu sau:"
+msgstr "Chọn một tuỳ chọn&hellip;"
 
 #: includes/class-wc-install.php:209
 msgctxt "page_slug"
@@ -4720,10 +4702,9 @@ msgstr "Xem giỏ &rarr;"
 
 # @ woocommerce
 #: includes/class-wc-install.php:219
-#, fuzzy
 msgctxt "page_slug"
 msgid "checkout"
-msgstr "Thanh toán"
+msgstr "thanh-toan"
 
 # @ woocommerce
 #: includes/class-wc-install.php:220 templates/cart/mini-cart.php:65
@@ -4737,9 +4718,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-install.php:422
-#, fuzzy
 msgid "Customer"
-msgstr "Ghi chú khách hàng"
+msgstr "Khách hàng"
 
 #: includes/class-wc-install.php:429
 msgid "Shop Manager"
@@ -4778,9 +4758,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-order.php:918
-#, fuzzy
 msgid "Order Total:"
-msgstr "Ghi chú khác"
+msgstr "Tổng tiền: "
 
 #: includes/class-wc-order.php:936 includes/wc-cart-functions.php:219
 msgid "(Includes %s)"
@@ -4798,9 +4777,8 @@ msgstr "Trạng thái sản phẩm đã thay đổi từ %s sang %s."
 
 # @ woocommerce
 #: includes/class-wc-order.php:1483
-#, fuzzy
 msgid "Order item stock reduced successfully."
-msgstr "Mã giảm giá đã nhập thành công."
+msgstr "Đã giảm số lượng sản phẩm trong đơn hàng thành công."
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:62 includes/class-wc-post-types.php:64
@@ -4816,46 +4794,39 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:66
-#, fuzzy
 msgctxt "Admin menu name"
 msgid "Categories"
-msgstr "Chuyên mục:"
+msgstr "Danh mục sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:67
-#, fuzzy
 msgid "Search Product Categories"
-msgstr "Danh mục sản phẩm"
+msgstr "Tìm danh mục sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:68
-#, fuzzy
 msgid "All Product Categories"
-msgstr "Danh mục sản phẩm"
+msgstr "Tất cả danh mục"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:69
-#, fuzzy
 msgid "Parent Product Category"
-msgstr "Chuyên mục:"
+msgstr "Danh mục mẹ"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:70
-#, fuzzy
 msgid "Parent Product Category:"
-msgstr "Chuyên mục:"
+msgstr "Danh mục mẹ"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:71
-#, fuzzy
 msgid "Edit Product Category"
-msgstr "Chuyên mục:"
+msgstr "Sửa mục sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:72
-#, fuzzy
 msgid "Update Product Category"
-msgstr "Cập nhật giỏ"
+msgstr "Cập nhật mục sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:73
@@ -4865,30 +4836,26 @@ msgstr "Thêm danh mục mới"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:74
-#, fuzzy
 msgid "New Product Category Name"
-msgstr "Thêm danh mục mới"
+msgstr "Tên danh mục mới"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:85
 #: includes/updates/woocommerce-update-2.0.php:49
-#, fuzzy
 msgctxt "slug"
 msgid "product-category"
-msgstr "Chuyên mục:"
+msgstr "danh-muc"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:97 includes/class-wc-post-types.php:99
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:27
-#, fuzzy
 msgid "Product Tags"
-msgstr "Sản phẩm"
+msgstr "Các thẻ sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:100
-#, fuzzy
 msgid "Product Tag"
-msgstr "Sản phẩm"
+msgstr "Thẻ sản "
 
 #: includes/class-wc-post-types.php:101
 msgctxt "Admin menu name"
@@ -4897,21 +4864,18 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:102
-#, fuzzy
 msgid "Search Product Tags"
-msgstr "Sản phẩm liên quan"
+msgstr "Tìm thẻ sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:103
-#, fuzzy
 msgid "All Product Tags"
-msgstr "Sản phẩm liên quan"
+msgstr "Tất cả thẻ"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:104
-#, fuzzy
 msgid "Parent Product Tag"
-msgstr "Thêm thẻ mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:105
 msgid "Parent Product Tag:"
@@ -4919,27 +4883,23 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:106
-#, fuzzy
 msgid "Edit Product Tag"
-msgstr "Thêm thẻ mới"
+msgstr "Sửa thẻ"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:107
-#, fuzzy
 msgid "Update Product Tag"
-msgstr "Thêm thẻ mới"
+msgstr "Cập nhật thẻ sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:108
-#, fuzzy
 msgid "Add New Product Tag"
 msgstr "Thêm thẻ mới"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:109
-#, fuzzy
 msgid "New Product Tag Name"
-msgstr "Thêm thẻ mới"
+msgstr "Tên mới của thẻ"
 
 #: includes/class-wc-post-types.php:120
 #: includes/updates/woocommerce-update-2.0.php:50
@@ -4949,23 +4909,20 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:131 includes/class-wc-post-types.php:133
-#, fuzzy
 msgid "Shipping Classes"
-msgstr "Vận chuyển:"
+msgstr "Các loại vận chuyển"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:134
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:522
-#, fuzzy
 msgid "Shipping Class"
-msgstr "Vận chuyển:"
+msgstr "Loại vận chuyển"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:135
-#, fuzzy
 msgctxt "Admin menu name"
 msgid "Shipping Classes"
-msgstr "Vận chuyển:"
+msgstr "Loại vận chuyển"
 
 #: includes/class-wc-post-types.php:136
 msgid "Search Shipping Classes"
@@ -4985,9 +4942,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:140
-#, fuzzy
 msgid "Edit Shipping Class"
-msgstr "Vận chuyển:"
+msgstr "Sửa loại vận chuyển"
 
 #: includes/class-wc-post-types.php:141
 msgid "Update Shipping Class"
@@ -4999,9 +4955,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:143
-#, fuzzy
 msgid "New Shipping Class Name"
-msgstr "Xem template."
+msgstr "Tên loại vận chuyển "
 
 #: includes/class-wc-post-types.php:191
 msgid "Search %s"
@@ -5013,33 +4968,28 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:193
-#, fuzzy
 msgid "Parent %s"
-msgstr "Đơn hàng mới đặt"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:194
-#, fuzzy
 msgid "Parent %s:"
-msgstr "Chuyên mục:"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:195
-#, fuzzy
 msgid "Edit %s"
-msgstr "Sửa địa chỉ"
+msgstr "Sửa %s"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:196
-#, fuzzy
 msgid "Update %s"
-msgstr "Cập nhật giỏ"
+msgstr "Cập nhật %s"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:197
-#, fuzzy
 msgid "Add New %s"
-msgstr "Thêm mới"
+msgstr "Thêm mới %s"
 
 #: includes/class-wc-post-types.php:198
 msgid "New %s"
@@ -5048,17 +4998,15 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-post-types.php:234
 #: includes/updates/woocommerce-update-2.0.php:58
-#, fuzzy
 msgctxt "slug"
 msgid "product"
-msgstr "Sản phẩm liên quan"
+msgstr "san-pham"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:240
 #: includes/widgets/class-wc-widget-products.php:27
-#, fuzzy
 msgid "Products"
-msgstr "Danh mục sản phẩm"
+msgstr "Sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:241 templates/cart/cart.php:27
@@ -5075,22 +5023,19 @@ msgstr "Sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:242
-#, fuzzy
 msgctxt "Admin menu name"
 msgid "Products"
-msgstr "Danh mục sản phẩm"
+msgstr "Sản phấm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:243
-#, fuzzy
 msgid "Add Product"
-msgstr "Sản phẩm liên quan"
+msgstr "Thêm sản "
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:244
-#, fuzzy
 msgid "Add New Product"
-msgstr "Thêm đơn hàng"
+msgstr "Thêm mới sản phẩm"
 
 # @ default
 # @ woocommerce
@@ -5101,21 +5046,18 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:246
-#, fuzzy
 msgid "Edit Product"
-msgstr "Sản phẩm liên quan"
+msgstr "Sửa sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:247
-#, fuzzy
 msgid "New Product"
-msgstr "Xem đơn hàng"
+msgstr "Sản phẩm mới\t"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:248 includes/class-wc-post-types.php:249
-#, fuzzy
 msgid "View Product"
-msgstr "Xem đơn hàng"
+msgstr "Xem sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:250
@@ -5157,7 +5099,7 @@ msgstr "Đơn hàng"
 # @ woocommerce
 #: includes/class-wc-post-types.php:293
 msgid "Orders"
-msgstr "Các đơn "
+msgstr "Các đơn hàng"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:294 templates/myaccount/my-orders.php:32
@@ -5268,7 +5210,7 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-post-types.php:342
 msgid "No Coupons found"
-msgstr "Không tìm thấy mã giảm "
+msgstr "Không tìm thấy mã giảm giá"
 
 #: includes/class-wc-post-types.php:343
 msgid "No Coupons found in trash"
