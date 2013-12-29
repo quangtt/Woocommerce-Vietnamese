@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.9\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-11-26 15:19:04+00:00\n"
-"PO-Revision-Date: 2013-12-21 21:41+0100\n"
-"Last-Translator: Thach Pham <ezit92@gmail.com>\n"
+"PO-Revision-Date: 2013-12-29 16:17+0100\n"
+"Last-Translator: Thach Pham <contact@thachpham.com>\n"
 "Language-Team: \n"
 "Language: vi_VN\n"
 "MIME-Version: 1.0\n"
@@ -21,15 +21,13 @@ msgstr ""
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:5
-#, fuzzy
 msgid "Insert Shortcode"
-msgstr "Chèn shortcode"
+msgstr ""
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:6
-#, fuzzy
 msgid "Product price/cart button"
-msgstr "Mô tả sản phẩm"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:7
 msgid "Product by SKU/ID"
@@ -41,27 +39,23 @@ msgstr "Sản phẩm bởi mã SKU/ID"
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:9
-#, fuzzy
 msgid "Product categories"
-msgstr "Danh mục sản phẩm"
+msgstr ""
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:10
-#, fuzzy
 msgid "Products by category slug"
-msgstr "Danh mục sản phẩm"
+msgstr ""
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:11
-#, fuzzy
 msgid "Recent products"
-msgstr "Sản phẩm liên quan"
+msgstr ""
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:12
-#, fuzzy
 msgid "Featured products"
-msgstr "Sản phẩm liên quan"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:13
 msgid "Shop Messages"
@@ -69,9 +63,8 @@ msgstr "Lời nhắn của gian hàng"
 
 # @ woocommerce
 #: assets/js/admin/editor_plugin_lang.php:14
-#, fuzzy
 msgid "Order tracking"
-msgstr "Thông tin đơn hàng"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:15 includes/class-wc-install.php:225
 #: includes/shortcodes/class-wc-shortcode-checkout.php:86
@@ -2441,9 +2434,8 @@ msgstr ""
 
 # @ woocommerce
 #: i18n/states/ZA.php:14
-#, fuzzy
 msgid "Free State"
-msgstr "Tiểu bang"
+msgstr ""
 
 #: i18n/states/ZA.php:15
 msgid "Gauteng"
@@ -2475,15 +2467,13 @@ msgstr ""
 
 # @ woocommerce
 #: i18n/strings.php:16
-#, fuzzy
 msgid "pending"
-msgstr "Đang chờ"
+msgstr ""
 
 # @ woocommerce
 #: i18n/strings.php:17
-#, fuzzy
 msgid "failed"
-msgstr "Thất bại"
+msgstr ""
 
 #: i18n/strings.php:18
 msgid "on-hold"
@@ -2495,9 +2485,8 @@ msgstr ""
 
 # @ woocommerce
 #: i18n/strings.php:20
-#, fuzzy
 msgid "completed"
-msgstr "Hoàn tất"
+msgstr ""
 
 #: i18n/strings.php:21
 msgid "refunded"
@@ -2518,9 +2507,8 @@ msgstr ""
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:75
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:64
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:49
-#, fuzzy
 msgid "Enable/Disable"
-msgstr "Bật/Tắt"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:556
 #: includes/emails/class-wc-email-customer-completed-order.php:138
@@ -2531,9 +2519,8 @@ msgstr ""
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:560
 #: includes/emails/class-wc-email-customer-invoice.php:142
-#, fuzzy
 msgid "Email subject"
-msgstr "Tiêu đề email"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:562
 #: includes/abstracts/abstract-wc-email.php:569
@@ -2558,9 +2545,8 @@ msgstr ""
 #: includes/emails/class-wc-email-customer-completed-order.php:170
 #: includes/emails/class-wc-email-customer-invoice.php:170
 #: includes/emails/class-wc-email-new-order.php:143
-#, fuzzy
 msgid "Email type"
-msgstr "Tiêu đề email"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:576
 #: includes/emails/class-wc-email-customer-completed-order.php:172
@@ -2574,9 +2560,8 @@ msgstr ""
 #: includes/emails/class-wc-email-customer-completed-order.php:176
 #: includes/emails/class-wc-email-customer-invoice.php:176
 #: includes/emails/class-wc-email-new-order.php:149
-#, fuzzy
 msgid "Plain text"
-msgstr "Thuần chữ"
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:581
@@ -2596,21 +2581,18 @@ msgstr ""
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:618
 #: includes/abstracts/abstract-wc-email.php:639
-#, fuzzy
 msgid "Could not write to template file."
-msgstr "Không thể ghi vào template."
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:670
-#, fuzzy
 msgid "Template file copied to theme."
-msgstr "Template file đã được copy vào thư mục theme."
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:679
-#, fuzzy
 msgid "Template file deleted from theme."
-msgstr "Template file đã được xóa trong thư mục theme."
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:687
@@ -2621,21 +2603,18 @@ msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:699
-#, fuzzy
 msgid "HTML template"
-msgstr "Xem template."
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:700
-#, fuzzy
 msgid "Plain text template"
-msgstr "Xóa template"
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:721
-#, fuzzy
 msgid "Delete template file"
-msgstr "Xóa template"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:724
 msgid ""
@@ -2645,9 +2624,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:739
-#, fuzzy
 msgid "Copy file to theme"
-msgstr "Copy file vào theme"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:742
 msgid ""
@@ -2657,27 +2635,23 @@ msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:753
-#, fuzzy
 msgid "File was not found."
-msgstr "Không tìm thấy file."
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:778
-#, fuzzy
 msgid "View template"
-msgstr "Xóa template"
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:779
-#, fuzzy
 msgid "Hide template"
-msgstr "Xóa template"
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-email.php:790
-#, fuzzy
 msgid "Are you sure you want to delete this template file?"
-msgstr "Bạn có chắc là muốn xóa template này chứ?"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:206
 msgid "Card Number"
@@ -2689,9 +2663,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-payment-gateway.php:214
-#, fuzzy
 msgid "Card Code"
-msgstr "Ghi chú khách hàng"
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-product.php:454
@@ -2731,9 +2704,8 @@ msgstr ""
 #: includes/abstracts/abstract-wc-product.php:600
 #: includes/abstracts/abstract-wc-product.php:610
 #: includes/abstracts/abstract-wc-product.php:614
-#, fuzzy
 msgid "Out of stock"
-msgstr "của 5"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:907
 #: includes/abstracts/abstract-wc-product.php:913
@@ -2746,17 +2718,15 @@ msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-product.php:930
-#, fuzzy
 msgctxt "min_price"
 msgid "From:"
-msgstr "Từ:"
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-product.php:1039
 #: templates/single-product/rating.php:23
-#, fuzzy
 msgid "Rated %s out of 5"
-msgstr "của 5"
+msgstr ""
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-product.php:1041
@@ -2803,9 +2773,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-authentication.php:247
-#, fuzzy
 msgid "Invalid timestamp"
-msgstr "Ẩn template"
+msgstr ""
 
 #: includes/api/class-wc-api-authentication.php:255
 msgid "Invalid nonce - nonce has already been used"
@@ -2829,9 +2798,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-coupons.php:171
-#, fuzzy
 msgid "Invalid coupon code"
-msgstr "Phương thức thanh toán không hợp lệ."
+msgstr ""
 
 #: includes/api/class-wc-api-customers.php:192
 msgid "You do not have permission to read the customers count"
@@ -2843,15 +2811,13 @@ msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-customers.php:425
-#, fuzzy
 msgid "Invalid customer ID"
-msgstr "Phương thức thanh toán không hợp lệ."
+msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-customers.php:431
-#, fuzzy
 msgid "Invalid customer"
-msgstr "Phương thức thanh toán không hợp lệ."
+msgstr ""
 
 #: includes/api/class-wc-api-customers.php:438
 msgid "You do not have permission to read this customer"
@@ -2892,9 +2858,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-resource.php:71
-#, fuzzy
 msgid "Invalid %s ID"
-msgstr "Phương thức thanh toán không hợp lệ."
+msgstr ""
 
 #: includes/api/class-wc-api-resource.php:83
 msgid "Invalid %s"
@@ -2918,9 +2883,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-resource.php:304
-#, fuzzy
 msgid "The customer cannot be deleted"
-msgstr "Template file đã được xóa trong thư mục theme."
+msgstr ""
 
 #: includes/api/class-wc-api-resource.php:313
 msgid "This %s cannot be deleted"
@@ -2928,15 +2892,13 @@ msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-resource.php:316
-#, fuzzy
 msgid "Permanently deleted %s"
-msgstr "Template file đã được xóa trong thư mục theme."
+msgstr ""
 
 # @ woocommerce
 #: includes/api/class-wc-api-resource.php:322
-#, fuzzy
 msgid "Deleted %s"
-msgstr "Hoàn tất"
+msgstr ""
 
 #: includes/api/class-wc-api-server.php:165
 msgid "Invalid authentication method"
@@ -3019,9 +2981,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-ajax.php:1320
-#, fuzzy
 msgid "Delete note"
-msgstr "Xóa template"
+msgstr ""
 
 #: includes/class-wc-ajax.php:1465
 msgid "Guest"
@@ -3085,9 +3046,8 @@ msgstr ""
 #: includes/class-wc-cart.php:798 includes/class-wc-cart.php:812
 #: includes/class-wc-cart.php:820 includes/class-wc-frontend-scripts.php:139
 #: templates/cart/mini-cart.php:64
-#, fuzzy
 msgid "View Cart"
-msgstr "Xem giỏ &rarr;"
+msgstr ""
 
 #: includes/class-wc-cart.php:798
 msgid "You cannot add another &quot;%s&quot; to your cart."
@@ -3113,10 +3073,9 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-checkout.php:99
-#, fuzzy
 msgctxt "placeholder"
 msgid "Username"
-msgstr "Tên tài khoản đăng nhập"
+msgstr ""
 
 #: includes/class-wc-checkout.php:106
 msgid "Account password"
@@ -3129,9 +3088,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-checkout.php:116
-#, fuzzy
 msgid "Order Notes"
-msgstr "Ghi chú khác"
+msgstr ""
 
 #: includes/class-wc-checkout.php:117
 msgctxt "placeholder"
@@ -3149,9 +3107,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-checkout.php:284
-#, fuzzy
 msgid "Backordered"
-msgstr "Đơn hàng mới"
+msgstr ""
 
 #: includes/class-wc-checkout.php:408
 msgid ""
@@ -3166,9 +3123,8 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-checkout.php:495 includes/class-wc-form-handler.php:92
 #: includes/shortcodes/class-wc-shortcode-cart.php:51
-#, fuzzy
 msgid "Please enter a valid postcode/ZIP."
-msgstr "Hãy nhập tài khoản đăng nhập của bạn."
+msgstr ""
 
 #: includes/class-wc-checkout.php:504 includes/class-wc-form-handler.php:101
 msgid "is not a valid phone number."
@@ -3176,15 +3132,13 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-checkout.php:510 includes/class-wc-form-handler.php:107
-#, fuzzy
 msgid "is not a valid email address."
-msgstr "là địa chỉ email không hợp lệ."
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-checkout.php:525
-#, fuzzy
 msgid "is not valid. Please enter one of the following:"
-msgstr "không chính xác. Hãy nhập đủ một trong các yêu cầu sau:"
+msgstr ""
 
 #: includes/class-wc-checkout.php:570
 msgid "You must accept our Terms &amp; Conditions."
@@ -3202,9 +3156,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-checkout.php:596
-#, fuzzy
 msgid "Invalid payment method."
-msgstr "Phương thức thanh toán không hợp lệ."
+msgstr ""
 
 #: includes/class-wc-comments.php:110
 msgid "You have taken too long. Please go back and refresh the page."
@@ -3212,9 +3165,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-comments.php:113
-#, fuzzy
 msgid "Please rate the product."
-msgstr "Sản phẩm liên quan"
+msgstr ""
 
 #: includes/class-wc-countries.php:37
 msgid "Afghanistan"
@@ -3838,9 +3790,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:193
-#, fuzzy
 msgid "New Zealand"
-msgstr "Đơn hàng mới"
+msgstr ""
 
 #: includes/class-wc-countries.php:194
 msgid "Nicaragua"
@@ -4192,15 +4143,13 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:485
-#, fuzzy
 msgid "to the"
-msgstr "đến"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:486
-#, fuzzy
 msgid "to"
-msgstr "đến"
+msgstr ""
 
 #: includes/class-wc-countries.php:499
 msgid "the"
@@ -4212,9 +4161,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:511
-#, fuzzy
 msgid "Tax"
-msgstr "Thẻ:"
+msgstr ""
 
 #: includes/class-wc-countries.php:524
 msgid "(incl. VAT)"
@@ -4234,21 +4182,18 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:719
-#, fuzzy
 msgid "Country"
-msgstr "Quốc gia"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:724
-#, fuzzy
 msgid "First Name"
-msgstr "Họ"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:729
-#, fuzzy
 msgid "Last Name"
-msgstr "Họ"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:735
@@ -8173,9 +8118,8 @@ msgstr "Đánh giá"
 
 # @ woocommerce
 #: templates/single-product-reviews.php:34
-#, fuzzy
 msgid "Previous"
-msgstr "Đánh giá"
+msgstr ""
 
 #: templates/single-product-reviews.php:35
 msgid "Next"
@@ -8210,9 +8154,8 @@ msgstr ""
 
 # @ woocommerce
 #: templates/single-product-reviews.php:70
-#, fuzzy
 msgid "Your Rating"
-msgstr "Xếp theo tỷ lệ đánh giá"
+msgstr ""
 
 #: templates/single-product-reviews.php:71
 msgid "Rate&hellip;"
@@ -8245,9 +8188,8 @@ msgstr ""
 
 # @ woocommerce
 #: templates/single-product-reviews.php:80
-#, fuzzy
 msgid "Your Review"
-msgstr "Đánh giá"
+msgstr ""
 
 #: templates/single-product-reviews.php:89
 msgid ""
