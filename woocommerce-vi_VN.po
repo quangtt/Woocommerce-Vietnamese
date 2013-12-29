@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.9\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-11-26 15:19:04+00:00\n"
-"PO-Revision-Date: 2013-12-29 16:17+0100\n"
+"PO-Revision-Date: 2013-12-29 16:31+0100\n"
 "Last-Translator: Thach Pham <contact@thachpham.com>\n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -3089,7 +3089,7 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-checkout.php:116
 msgid "Order Notes"
-msgstr ""
+msgstr "Ghi chú đơn hàng"
 
 #: includes/class-wc-checkout.php:117
 msgctxt "placeholder"
@@ -4188,7 +4188,7 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-countries.php:724
 msgid "First Name"
-msgstr ""
+msgstr "Tên"
 
 # @ woocommerce
 #: includes/class-wc-countries.php:729
@@ -4198,18 +4198,17 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-countries.php:735
 msgid "Company Name"
-msgstr "Tên công "
+msgstr "Tên công ty"
 
 # @ woocommerce
 #: includes/class-wc-countries.php:739
-#, fuzzy
 msgid "Address"
 msgstr "Địa chỉ"
 
 #: includes/class-wc-countries.php:740
 msgctxt "placeholder"
 msgid "Street address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: includes/class-wc-countries.php:745
 msgctxt "placeholder"
@@ -4218,16 +4217,16 @@ msgstr ""
 
 #: includes/class-wc-countries.php:750 includes/class-wc-countries.php:751
 msgid "Town / City"
-msgstr ""
+msgstr "Tỉnh/Thành"
 
 #: includes/class-wc-countries.php:757 includes/class-wc-countries.php:758
 msgid "State / County"
-msgstr ""
+msgstr "Tiểu bang / Tỉnh thành"
 
 #: includes/class-wc-countries.php:764 includes/class-wc-countries.php:765
 #: templates/cart/shipping-calculator.php:80
 msgid "Postcode / Zip"
-msgstr ""
+msgstr "Mã bưu chính"
 
 #: includes/class-wc-countries.php:808 includes/class-wc-countries.php:818
 #: includes/class-wc-countries.php:838 includes/class-wc-countries.php:899
@@ -4255,19 +4254,17 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-countries.php:894 includes/class-wc-countries.php:1036
-#, fuzzy
 msgid "County"
 msgstr "Quốc gia"
 
 #: includes/class-wc-countries.php:1025
 msgid "Zip"
-msgstr ""
+msgstr "Mã ZIP"
 
 # @ woocommerce
 #: includes/class-wc-countries.php:1028
-#, fuzzy
 msgid "State"
-msgstr "Tiểu bang"
+msgstr "Tỉnh thành/Tiểu bang"
 
 # @ woocommerce
 #: includes/class-wc-countries.php:1033
@@ -4281,11 +4278,10 @@ msgstr "Địa chỉ email"
 
 #: includes/class-wc-countries.php:1147
 msgid "Phone"
-msgstr ""
+msgstr "Số điện thoại"
 
 # @ woocommerce
 #: includes/class-wc-coupon.php:568
-#, fuzzy
 msgid "Coupon code applied successfully."
 msgstr "Mã giảm giá đã nhập thành công."
 
@@ -4296,13 +4292,12 @@ msgstr "Mã giảm giá đã xoá thành công."
 
 # @ woocommerce
 #: includes/class-wc-coupon.php:592
-#, fuzzy
 msgid "Coupon is not valid."
 msgstr "Mã giảm giá không đúng"
 
 #: includes/class-wc-coupon.php:595 includes/class-wc-coupon.php:645
 msgid "Coupon does not exist!"
-msgstr ""
+msgstr "Mã giảm giá không tồn tại."
 
 #: includes/class-wc-coupon.php:598
 msgid ""
@@ -4344,7 +4339,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-coupon.php:622
-#, fuzzy
 msgid "Sorry, this coupon is not valid for sale items."
 msgstr "Xin lỗi, mã giảm giá không thể áp dụng cho sản phẩm này."
 
@@ -4424,7 +4418,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-download-handler.php:267
-#, fuzzy
 msgid "File not found"
 msgstr "Không tìm thấy file."
 
@@ -4477,9 +4470,8 @@ msgstr "Sửa địa chỉ thành công."
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:166
-#, fuzzy
 msgid "Please enter your name."
-msgstr "Hãy nhập tài khoản đăng nhập của bạn."
+msgstr "Hãy nhập tên của bạn của bạn."
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:169
@@ -4585,7 +4577,7 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-form-handler.php:770
 msgid "Log in"
-msgstr ""
+msgstr "Đăng nhập"
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:794
@@ -4641,9 +4633,8 @@ msgstr ""
 #: includes/class-wc-install.php:215
 #: includes/widgets/class-wc-widget-cart.php:29
 #: includes/widgets/class-wc-widget-cart.php:56
-#, fuzzy
 msgid "Cart"
-msgstr "Xem giỏ &rarr;"
+msgstr "Giỏ hàng"
 
 # @ woocommerce
 #: includes/class-wc-install.php:219
@@ -4693,7 +4684,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-order.php:868
-#, fuzzy
 msgid "Shipping:"
 msgstr "Vận chuyển:"
 
@@ -4716,7 +4706,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-order.php:1227
-#, fuzzy
 msgid "Order status changed from %s to %s."
 msgstr "Trạng thái sản phẩm đã thay đổi từ %s sang %s."
 
@@ -4728,9 +4717,8 @@ msgstr "Đã giảm số lượng sản phẩm trong đơn hàng thành công."
 # @ woocommerce
 #: includes/class-wc-post-types.php:62 includes/class-wc-post-types.php:64
 #: includes/widgets/class-wc-widget-product-categories.php:30
-#, fuzzy
 msgid "Product Categories"
-msgstr "Danh mục sản phẩm"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:65
@@ -4775,9 +4763,8 @@ msgstr "Cập nhật mục sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:73
-#, fuzzy
 msgid "Add New Product Category"
-msgstr "Thêm danh mục mới"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:74
@@ -4962,9 +4949,8 @@ msgstr "Sản phẩm"
 #: templates/emails/customer-note.php:27
 #: templates/emails/customer-processing-order.php:23
 #: templates/order/order-details.php:20
-#, fuzzy
 msgid "Product"
-msgstr "Sản phẩm"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:242
@@ -5007,15 +4993,13 @@ msgstr "Xem sản phẩm"
 # @ woocommerce
 #: includes/class-wc-post-types.php:250
 #: includes/widgets/class-wc-widget-product-search.php:27
-#, fuzzy
 msgid "Search Products"
-msgstr "Sản phẩm liên quan"
+msgstr "Tìm sản phẩm"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:251
-#, fuzzy
 msgid "No Products found"
-msgstr "Sản phẩm"
+msgstr "Không có sản phẩm"
 
 #: includes/class-wc-post-types.php:252
 msgid "No Products found in trash"
@@ -5023,9 +5007,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:253
-#, fuzzy
 msgid "Parent Product"
-msgstr "Sản phẩm liên quan"
+msgstr ""
 
 #: includes/class-wc-post-types.php:255
 msgid "This is where you can add new products to your store."
@@ -5058,33 +5041,28 @@ msgstr "Thêm đơn hàng"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:296
-#, fuzzy
 msgid "Add New Order"
-msgstr "Thêm đơn hàng"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:298
-#, fuzzy
 msgid "Edit Order"
-msgstr "Đơn hàng của bạn"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:299
-#, fuzzy
 msgid "New Order"
-msgstr "Xem đơn hàng"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:300 includes/class-wc-post-types.php:301
-#, fuzzy
 msgid "View Order"
-msgstr "Xem đơn hàng"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:302
-#, fuzzy
 msgid "Search Orders"
-msgstr "Đơn hàng của bạn"
+msgstr ""
 
 #: includes/class-wc-post-types.php:303
 msgid "No Orders found"
@@ -5096,9 +5074,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:305
-#, fuzzy
 msgid "Parent Orders"
-msgstr "Đơn hàng của bạn"
+msgstr ""
 
 #: includes/class-wc-post-types.php:308
 msgid "This is where store orders are stored."
@@ -5123,9 +5100,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:335
-#, fuzzy
 msgid "Add New Coupon"
-msgstr "Thêm mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:337
 msgid "Edit Coupon"
@@ -5138,15 +5114,13 @@ msgstr ""
 # @ default
 # @ woocommerce
 #: includes/class-wc-post-types.php:339
-#, fuzzy
 msgid "View Coupons"
-msgstr "Xem"
+msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:340
-#, fuzzy
 msgid "View Coupon"
-msgstr "Xem giỏ &rarr;"
+msgstr ""
 
 #: includes/class-wc-post-types.php:341
 msgid "Search Coupons"
@@ -5176,7 +5150,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/class-wc-product-grouped.php:42
-#, fuzzy
 msgid "View products"
 msgstr "Xem đơn hàng"
 
@@ -5208,7 +5181,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/emails/class-wc-email-customer-completed-order.php:26
-#, fuzzy
 msgid "Completed order"
 msgstr "Hoàn tất"
 
@@ -5255,7 +5227,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/emails/class-wc-email-customer-invoice.php:29
-#, fuzzy
 msgid "Customer invoice"
 msgstr "Hóa đơn khách hàng"
 
@@ -5309,7 +5280,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/emails/class-wc-email-customer-note.php:31
-#, fuzzy
 msgid "Customer note"
 msgstr "Ghi chú khách hàng"
 
@@ -5327,7 +5297,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/emails/class-wc-email-customer-processing-order.php:26
-#, fuzzy
 msgid "Processing order"
 msgstr "Đơn hàng mới"
 
@@ -5347,7 +5316,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/emails/class-wc-email-customer-reset-password.php:38
-#, fuzzy
 msgid "Reset password"
 msgstr "Khôi phục mật khẩu"
 
@@ -5367,7 +5335,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/emails/class-wc-email-new-order.php:26
-#, fuzzy
 msgid "New order"
 msgstr "Đơn hàng mới"
 
@@ -5377,7 +5344,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/emails/class-wc-email-new-order.php:29
-#, fuzzy
 msgid "New customer order"
 msgstr "Ghi chú khách hàng"
 
@@ -5495,15 +5461,13 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:105
-#, fuzzy
 msgid "Account Details"
-msgstr "Thông tin chúng tôi"
+msgstr "Thông tin tài khoản"
 
 # @ woocommerce
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:111
-#, fuzzy
 msgid "Account Name"
-msgstr "Họ"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:112
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:253
@@ -5517,9 +5481,8 @@ msgstr ""
 # @ woocommerce
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:114
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:257
-#, fuzzy
 msgid "Sort Code"
-msgstr "Đơn hàng của bạn"
+msgstr "Sort Code"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:115
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:261
@@ -5540,7 +5503,6 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:240
-#, fuzzy
 msgid "Our Bank Details"
 msgstr "Thông tin chúng tôi"
 
@@ -5592,13 +5554,11 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/cod/class-wc-gateway-cod.php:57
-#, fuzzy
 msgid "Enable COD"
 msgstr "Nộp tiền trực tiếp tại công ty."
 
 # @ woocommerce
 #: includes/gateways/cod/class-wc-gateway-cod.php:58
-#, fuzzy
 msgid "Enable Cash on Delivery"
 msgstr "Nộp tiền trực tiếp tại công ty."
 
@@ -5627,9 +5587,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/cod/class-wc-gateway-cod.php:94
-#, fuzzy
 msgid "Select shipping methods"
-msgstr "Chèn shortcode"
+msgstr "Select shipping methods"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:157
 msgid "Payment to be made upon delivery."
@@ -5638,9 +5597,8 @@ msgstr ""
 # @ woocommerce
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:30
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:167
-#, fuzzy
 msgid "Mijireh Checkout"
-msgstr "Thanh toán"
+msgstr "Mijireh Checkout"
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:107
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:291
@@ -5716,9 +5674,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:105
-#, fuzzy
 msgid "Gateway Disabled"
-msgstr "Bật/Tắt"
+msgstr "Gateway Disabled"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:105
 msgid "PayPal does not support your store currency."
@@ -5793,9 +5750,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:176
-#, fuzzy
 msgid "Capture"
-msgstr "Sản phẩm nổi bật"
+msgstr "Capture"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:177
 msgid "Authorize"
@@ -5827,15 +5783,13 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:196
-#, fuzzy
 msgid "Shipping options"
-msgstr "Vận chuyển:"
+msgstr ""
 
 # @ woocommerce
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:201
-#, fuzzy
 msgid "Shipping details"
-msgstr "Vận chuyển:"
+msgstr "Thông tin vận chuyển"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:203
 msgid "Send shipping details to PayPal instead of billing."
@@ -5887,9 +5841,8 @@ msgstr ""
 
 # @ woocommerce
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:230
-#, fuzzy
 msgid "Enable logging"
-msgstr "Nộp tiền trực tiếp tại công ty."
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:232
 msgid ""
@@ -7366,9 +7319,8 @@ msgstr "Bạn có coupon giảm giá?"
 
 # @ woocommerce
 #: templates/checkout/form-coupon.php:18
-#, fuzzy
 msgid "Click here to enter your code"
-msgstr "Bấm vào để nhập coupon"
+msgstr "Hãy nhập mã giảm giá."
 
 #: templates/checkout/form-coupon.php:25
 msgid "Coupon code"
@@ -7380,9 +7332,8 @@ msgstr ""
 
 # @ woocommerce
 #: templates/checkout/form-login.php:15
-#, fuzzy
 msgid "Click here to login"
-msgstr "Bấm vào để nhập coupon"
+msgstr "Đăng nhập &rarr;"
 
 #: templates/checkout/form-login.php:22
 msgid ""
@@ -7414,13 +7365,12 @@ msgstr ""
 
 # @ woocommerce
 #: templates/checkout/form-pay.php:88
-#, fuzzy
 msgid "Pay for order"
 msgstr "Đơn hàng của bạn"
 
 #: templates/checkout/form-shipping.php:31
 msgid "Ship to a different address?"
-msgstr ""
+msgstr "Gửi tới một địa chỉ khác?"
 
 #: templates/checkout/review-order.php:150
 msgid "Please fill in your details above to see available payment methods."
@@ -7795,9 +7745,8 @@ msgstr ""
 # @ woocommerce
 #: templates/myaccount/form-edit-address.php:14
 #: templates/myaccount/my-address.php:20 templates/order/order-details.php:133
-#, fuzzy
 msgid "Shipping Address"
-msgstr "Địa chỉ"
+msgstr "Địa chỉ nhận hàng"
 
 # @ woocommerce
 #: templates/myaccount/form-edit-address.php:38
